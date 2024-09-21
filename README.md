@@ -4,7 +4,7 @@
 
 ## Demo
 
-<iframe width="560" height="315" src="https://youtu.be/EZyOcqx7TCM" title="Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video src="https://youtu.be/EZyOcqx7TCM" width="320" height="240" controls></video>
 
 - For this, we need to create Google Apps Script in Google Sheet.
 
