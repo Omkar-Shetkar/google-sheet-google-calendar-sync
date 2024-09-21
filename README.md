@@ -4,7 +4,7 @@
 
 ## Demo
 
-<video src="https://youtu.be/EZyOcqx7TCM" width="320" height="240" controls></video>
+https://youtu.be/EZyOcqx7TCM
 
 - For this, we need to create Google Apps Script in Google Sheet.
 
