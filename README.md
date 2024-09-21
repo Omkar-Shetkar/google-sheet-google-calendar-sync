@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://youtu.be/EZyOcqx7TCM
+[![alt text](https://img.youtube.com/vi/EZyOcqx7TCM/0.jpg)](https://www.youtube.com/watch?v=EZyOcqx7TCM)
 
 - For this, we need to create Google Apps Script in Google Sheet.
 
